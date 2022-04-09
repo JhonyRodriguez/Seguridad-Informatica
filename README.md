@@ -1,2 +1,2 @@
-# Seguridad-Inform;atica
+# Seguridad-Informática
 Curso Practico Esetec
