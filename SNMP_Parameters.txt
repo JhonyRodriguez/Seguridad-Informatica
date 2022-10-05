@@ -1,0 +1,1053 @@
+lgpAgentIdentManufacturer,1.3.6.1.4.1.476.1.42.2.1.1.0
+lgpAgentIdentModel,1.3.6.1.4.1.476.1.42.2.1.2.0
+lgpAgentIdentFirmwareVersion,1.3.6.1.4.1.476.1.42.2.1.3.0
+lgpAgentIdentSerialNumber,1.3.6.1.4.1.476.1.42.2.1.4.0
+lgpAgentIdentPartNumber,1.3.6.1.4.1.476.1.42.2.1.5.0
+lgpAgentReboot,1.3.6.1.4.1.476.1.42.2.5.1.0
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.1
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.2
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.3
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.4
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.5
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.6
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.7
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.8
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.9
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.10
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.11
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.12
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.13
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.14
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.15
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.16
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.17
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.18
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.19
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.21
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.23
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.24
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.29
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.30
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.35
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.36
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.37
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.38
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.39
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.40
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.41
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.42
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.43
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.44
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.45
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.46
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.47
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.48
+lgpConditionControlDescr,1.3.6.1.4.1.476.1.42.3.2.4.20.1.2.49
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.1
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.2
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.3
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.4
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.5
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.6
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.7
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.8
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.9
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.10
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.11
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.12
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.13
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.14
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.15
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.16
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.17
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.18
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.19
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.21
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.23
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.24
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.29
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.30
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.35
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.36
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.37
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.38
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.39
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.40
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.41
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.42
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.43
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.44
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.45
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.46
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.47
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.48
+lgpConditionControlEnableStatus,1.3.6.1.4.1.476.1.42.3.2.4.20.1.3.49
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.1
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.2
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.3
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.4
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.5
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.6
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.7
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.8
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.9
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.10
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.11
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.12
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.13
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.14
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.15
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.16
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.17
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.18
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.19
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.21
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.23
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.24
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.29
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.30
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.37
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.38
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.39
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.40
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.41
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.42
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.43
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.44
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.45
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.46
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.47
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.48
+lgpConditionControlType,1.3.6.1.4.1.476.1.42.3.2.4.20.1.4.49
+lgpEnvTemperatureDescrDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.2.1
+lgpEnvTemperatureDescrDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.2.2
+lgpEnvTemperatureDescrDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.2.3
+lgpEnvTemperatureDescrDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.2.7
+lgpEnvTemperatureDescrDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.2.8
+lgpEnvTemperatureDescrDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.2.10
+lgpEnvTemperatureMeasurementDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.3.2
+lgpEnvTemperatureMeasurementDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.3.3
+lgpEnvTemperatureMeasurementDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.3.7
+lgpEnvTemperatureMeasurementDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.3.8
+lgpEnvTemperatureMeasurementDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.3.10
+lgpEnvTemperatureDailyHighDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.7.1
+lgpEnvTemperatureDailyLowDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.8.1
+lgpEnvTempDailyHighTimeHourDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.9.1
+lgpEnvTempDailyHighTimeMinuteDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.10.1
+lgpEnvTempDailyHighTimeSecondDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.11.1
+lgpEnvTempDailyLowTimeHourDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.12.1
+lgpEnvTempDailyLowTimeMinuteDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.13.1
+lgpEnvTempDailyLowTimeSecondDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.14.1
+lgpEnvTemperatureMeasurementTenthsDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.50.2
+lgpEnvTemperatureMeasurementTenthsDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.50.3
+lgpEnvTemperatureMeasurementTenthsDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.50.7
+lgpEnvTemperatureMeasurementTenthsDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.50.8
+lgpEnvTemperatureMeasurementTenthsDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.50.10
+lgpEnvTemperatureHighThresholdTenthsDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.51.3
+lgpEnvTemperatureLowThresholdTenthsDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.52.3
+lgpEnvTemperatureSetPointTenthsDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.53.1
+lgpEnvTemperatureSetPointTenthsDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.53.2
+lgpEnvTemperatureSetPointTenthsDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.53.3
+lgpEnvTemperatureDeadBandTenthsDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.3.1.60.1
+lgpEnvTemperatureDescrDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.2.1
+lgpEnvTemperatureDescrDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.2.2
+lgpEnvTemperatureDescrDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.2.3
+lgpEnvTemperatureDescrDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.2.7
+lgpEnvTemperatureDescrDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.2.8
+lgpEnvTemperatureDescrDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.2.10
+lgpEnvTemperatureMeasurementDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.3.2
+lgpEnvTemperatureMeasurementDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.3.3
+lgpEnvTemperatureMeasurementDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.3.7
+lgpEnvTemperatureMeasurementDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.3.8
+lgpEnvTemperatureMeasurementDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.3.10
+lgpEnvTemperatureDailyHighDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.7.1
+lgpEnvTemperatureDailyLowDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.8.1
+lgpEnvTempDailyHighTimeHourDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.9.1
+lgpEnvTempDailyHighTimeMinuteDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.10.1
+lgpEnvTempDailyHighTimeSecondDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.11.1
+lgpEnvTempDailyLowTimeHourDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.12.1
+lgpEnvTempDailyLowTimeMinuteDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.13.1
+lgpEnvTempDailyLowTimeSecondDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.14.1
+lgpEnvTemperatureMeasurementTenthsDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.50.2
+lgpEnvTemperatureMeasurementTenthsDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.50.3
+lgpEnvTemperatureMeasurementTenthsDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.50.7
+lgpEnvTemperatureMeasurementTenthsDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.50.8
+lgpEnvTemperatureMeasurementTenthsDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.50.10
+lgpEnvTemperatureHighThresholdTenthsDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.51.3
+lgpEnvTemperatureLowThresholdTenthsDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.52.3
+lgpEnvTemperatureSetPointTenthsDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.53.1
+lgpEnvTemperatureSetPointTenthsDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.53.2
+lgpEnvTemperatureSetPointTenthsDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.53.3
+lgpEnvTemperatureDeadBandTenthsDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.3.1.60.1
+lgpEnvTemperatureSettingDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.1.0
+lgpEnvTemperatureToleranceDegF,1.3.6.1.4.1.476.1.42.3.4.1.2.2.0
+lgpEnvTemperatureSettingDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.1.0
+lgpEnvTemperatureToleranceDegC,1.3.6.1.4.1.476.1.42.3.4.1.3.2.0
+lgpEnvHumidityDescrRel,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.2.1
+lgpEnvHumidityDescrRel,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.2.5
+lgpEnvHumidityMeasurementRel,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.3.1
+lgpEnvHumidityMeasurementRel,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.3.5
+lgpEnvHumiditySetPoint,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.6.1
+lgpEnvHumiditySetPoint,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.6.5
+lgpEnvHumidityDailyHigh,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.7.1
+lgpEnvHumidityDailyLow,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.8.1
+lgpEnvHumidityDailyHighTimeHour,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.9.1
+lgpEnvHumidityDailyHighTimeMinute,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.10.1
+lgpEnvHumidityDailyHighTimeSecond,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.11.1
+lgpEnvHumidityDailyLowTimeHour,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.12.1
+lgpEnvHumidityDailyLowTimeMinute,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.13.1
+lgpEnvHumidityDailyLowTimeSecond,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.14.1
+lgpEnvHumidityDeadBand,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.15.1
+lgpEnvHumidifyPropBand,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.16.1
+lgpEnvHumidityMeasurementRelTenths,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.50.1
+lgpEnvHumidityMeasurementRelTenths,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.50.5
+lgpEnvHumidityHighThresholdRelTenths,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.51.1
+lgpEnvHumidityHighThresholdRelTenths,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.51.5
+lgpEnvHumidityLowThresholdRelTenths,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.52.1
+lgpEnvHumidityLowThresholdRelTenths,1.3.6.1.4.1.476.1.42.3.4.2.2.3.1.52.5
+lgpEnvStateSystem,1.3.6.1.4.1.476.1.42.3.4.3.1.0
+lgpEnvStateCooling,1.3.6.1.4.1.476.1.42.3.4.3.2.0
+lgpEnvStateHumidifying,1.3.6.1.4.1.476.1.42.3.4.3.4.0
+lgpEnvStateDehumidifying,1.3.6.1.4.1.476.1.42.3.4.3.5.0
+lgpEnvStateFan,1.3.6.1.4.1.476.1.42.3.4.3.7.0
+lgpEnvStateHeatingCapacity,1.3.6.1.4.1.476.1.42.3.4.3.10.0
+lgpEnvStateOperatingReason,1.3.6.1.4.1.476.1.42.3.4.3.14.0
+lgpEnvStateOperatingMode,1.3.6.1.4.1.476.1.42.3.4.3.15.0
+lgpEnvStateFanCapacity,1.3.6.1.4.1.476.1.42.3.4.3.16.0
+lgpEnvStateFreeCoolingCapacity,1.3.6.1.4.1.476.1.42.3.4.3.17.0
+lgpEnvStateDehumidifyingCapacity,1.3.6.1.4.1.476.1.42.3.4.3.18.0
+lgpEnvStateHumidifyingCapacity,1.3.6.1.4.1.476.1.42.3.4.3.19.0
+lgpEnvStateFreeCooling,1.3.6.1.4.1.476.1.42.3.4.3.20.0
+lgpEnvStateElectricHeater,1.3.6.1.4.1.476.1.42.3.4.3.21.0
+lgpEnvStateHotWater,1.3.6.1.4.1.476.1.42.3.4.3.22.0
+lgpEnvConfigRestartDelay,1.3.6.1.4.1.476.1.42.3.4.4.4.0
+lgpEnvConfigTemperatureIntegTime,1.3.6.1.4.1.476.1.42.3.4.4.15.0
+lgpEnvConfigHumidityIntegTime,1.3.6.1.4.1.476.1.42.3.4.4.18.0
+lgpEnvConfigFreecoolingDeltaDegF,1.3.6.1.4.1.476.1.42.3.4.4.19.0
+lgpEnvConfigFreecoolingDeltaDegC,1.3.6.1.4.1.476.1.42.3.4.4.20.0
+lgpEnvConfigDeltaGlycolType,1.3.6.1.4.1.476.1.42.3.4.4.26.0
+lgpEnvConfigHumidityControl,1.3.6.1.4.1.476.1.42.3.4.4.29.0
+lgpEnvConfigTempControlAlgorithm,1.3.6.1.4.1.476.1.42.3.4.4.33.0
+lgpEnvConfigBmsResetTimer,1.3.6.1.4.1.476.1.42.3.4.4.36.0
+lgpEnvStatisticsComp1RunHr,1.3.6.1.4.1.476.1.42.3.4.6.1.0
+lgpEnvStatisticsComp2RunHr,1.3.6.1.4.1.476.1.42.3.4.6.2.0
+lgpEnvStatisticsFanRunHr,1.3.6.1.4.1.476.1.42.3.4.6.3.0
+lgpEnvStatisticsReheat1RunHr,1.3.6.1.4.1.476.1.42.3.4.6.7.0
+lgpEnvStatisticsReheat2RunHr,1.3.6.1.4.1.476.1.42.3.4.6.8.0
+lgpEnvStatisticsReheat3RunHr,1.3.6.1.4.1.476.1.42.3.4.6.9.0
+lgpEnvStatisticsHumidifyModeHrs,1.3.6.1.4.1.476.1.42.3.4.6.12.0
+lgpEnvStatisticsDehumidifyModeHrs,1.3.6.1.4.1.476.1.42.3.4.6.13.0
+lgpEnvStatisticsHotGasRunHr,1.3.6.1.4.1.476.1.42.3.4.6.14.0
+lgpEnvStatisticsHotWaterRunHr,1.3.6.1.4.1.476.1.42.3.4.6.15.0
+lgpEnvStatisticsFreeCoolRunHr,1.3.6.1.4.1.476.1.42.3.4.6.16.0
+lgpSysState,1.3.6.1.4.1.476.1.42.3.7.2.2.0
+lgpSysControlOperationOnOff,1.3.6.1.4.1.476.1.42.3.7.4.2.0
+lgpSysMaintenanceCapacity,1.3.6.1.4.1.476.1.42.3.7.6.1.0
+lgpSysMaintenanceYear,1.3.6.1.4.1.476.1.42.3.7.6.2.0
+lgpSysMaintenanceMonth,1.3.6.1.4.1.476.1.42.3.7.6.3.0
+System Status,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4123
+ Possible states for the OID above:
+  1: "Normal Operation"
+  2: "StartUp"
+  8: "Normal with Warning"
+  16: "Normal with Alarm"
+  32: "Abnormal Operation"
+System Model Number,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4240
+Return Air Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4291
+System Date and Time,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4293
+System Name,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4329
+Server Class,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4553
+ Possible states for the OID above:
+  1: "UPS"
+  2: "AIR"
+  3: "PMP"
+  4: "PDU"
+  5: "MONITOR"
+Ext Air Sensor A Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4594
+Ext Air Sensor A Humidity,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4595
+Ext Air Sensor B Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4597
+Ext Air Sensor B Humidity,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4598
+Ext Air Sensor A Over Temp - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4602
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Ext Air Sensor A Over Temp - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4603
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Ext Air Sensor A Under Temp - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4609
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Ext Air Sensor A Under Temp - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4610
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Unit Operating State,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4706
+ Possible states for the OID above:
+  0: "off"
+  1: "on"
+  2: "standby"
+Unit Control Mode,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4707
+ Possible states for the OID above:
+  0: "Internal (Auto)"
+  1: "External (Manual)"
+Auto Restart Delay,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4710
+Shutdown - Loss Of Power - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4715
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Shutdown - Loss Of Power - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4716
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Customer Input 1 - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4718
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Customer Input 1 - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4719
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Smoke Detected - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4721
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Smoke Detected - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4722
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Water Under Floor - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4724
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Water Under Floor - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4725
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Service Required - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4727
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Service Required - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4728
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Fan Issue - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4730
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Fan Issue - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4731
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Calculated Next Maintenance Month,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4868
+Calculated Next Maintenance Year,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4869
+Maintenance Ramp,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.4870
+Supply Air Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5002
+Air Temperature Set Point,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5008
+Air Temperature Dead Band,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5011
+High Return Air Temperature Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5022
+Return Air Over Temp - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5024
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Return Air Over Temp - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5025
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Return Humidity,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5028
+Humidity Set Point,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5029
+Humidity Dead Band,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5032
+High Return Humidity Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5033
+Low Return Humidity Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5035
+Fan Speed Maximum Set Point,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5050
+Unit Off Reason,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5074
+ Possible states for the OID above:
+  0: "None"
+  1: "User"
+  2: "Alarm"
+  3: "Timer"
+  4: "Monitoring"
+  5: "Remote Off"
+  6: "HCS12 Off"
+BMS Timeout Period,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5075
+Fan Speed,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5077
+Compressor Utilization,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5078
+Dehumidifier Utilization,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5079
+Reheat Utilization,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5080
+Humidifier Utilization,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5081
+Ext Loss of Flow - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5082
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Ext Loss of Flow - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5083
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Ext Reheat Lockout - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5084
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Ext Reheat Lockout - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5085
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Ext Humidifier Lockout - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5086
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Ext Humidifier Lockout - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5087
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Ext Compressor Lockout - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5088
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Ext Compressor Lockout - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5089
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Ext Over Temperature - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5090
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Ext Over Temperature - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5091
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Customer Input 2 - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5098
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Customer Input 2 - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5099
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Customer Input 3 - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5100
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Customer Input 3 - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5101
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Customer Input 4 - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5102
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Customer Input 4 - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5103
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Ext Condenser Pump High Water - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5122
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Ext Condenser Pump High Water - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5123
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Ext Standby Glycol Pump On - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5129
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Ext Standby Glycol Pump On - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5130
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Humidifier Issue - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5131
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Humidifier Issue - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5132
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Master Unit Communication Lost - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5133
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Master Unit Communication Lost - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5134
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Clogged Air Filter - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5135
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Clogged Air Filter - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5136
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+High Return Humidity - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5137
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+High Return Humidity - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5138
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Low Return Humidity - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5139
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Low Return Humidity - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5140
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+High Power Shutdown - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5141
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+High Power Shutdown - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5142
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+System On/Off Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5143
+ Possible states for the OID above:
+  0: "off"
+  1: "on"
+Compressor State,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5264.1
+ Possible states for the OID above:
+  0: "off"
+  1: "on"
+Compressor State,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5264.2
+ Possible states for the OID above:
+  0: "off"
+  1: "on"
+Compressor Capacity Control State,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5265.1
+ Possible states for the OID above:
+  0: "off"
+  1: "on"
+Compressor Capacity Control State,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5265.2
+ Possible states for the OID above:
+  0: "off"
+  1: "on"
+Compressor Hours,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5267.1
+Compressor Hours,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5267.2
+Compressor Hours Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5268.1
+Compressor Hours Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5268.2
+Free Cooling Status,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5302
+ Possible states for the OID above:
+  0: "off"
+  2: "on"
+  3: "No Support"
+Free Cooling Valve Hours,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5304
+Free Cooling Valve Hours Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5305
+Compressor High Head Pressure - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5316.1
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Compressor High Head Pressure - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5316.2
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Compressor High Head Pressure - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5317.1
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Compressor High Head Pressure - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5317.2
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Compressor Low Suction Pressure - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5318.1
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Compressor Low Suction Pressure - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5318.2
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Compressor Low Suction Pressure - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5319.1
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Compressor Low Suction Pressure - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5319.2
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Compressor Thermal Overload - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5320.1
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Compressor Thermal Overload - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5320.2
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Compressor Thermal Overload - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5321.1
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Compressor Thermal Overload - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5321.2
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Air Temperature Control Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5324
+ Possible states for the OID above:
+  0: "Proportional"
+  1: "Prop+Integral"
+  3: "Intelligent"
+Air Temperature Proportional Band,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5325
+Air Temperature Control Integration Time,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5326
+Today's High Air Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5327
+Today's High Air Temperature Time,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5328
+Today's Low Air Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5329
+Today's Low Air Temperature Time,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5330
+Supply Air Temperature Set Point,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5331
+Supply Air Temperature Sensor Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5332
+ Possible states for the OID above:
+  0: "Disabled"
+  1: "Limit"
+  2: "Control"
+  3: "Temp Only"
+Actual Return Air Temperature Set Point,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5333
+Low Return Air Temperature Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5334
+Ext Air Sensor C Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5336
+Ext Air Sensor A Over Temp Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5337
+Ext Air Sensor A Under Temp Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5338
+Actual Return Humidity Set Point,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5339
+Humidity Control Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5340
+ Possible states for the OID above:
+  0: "Relative"
+  1: "Compensated"
+  2: "Predictive"
+Humidity Proportional Band,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5341
+Humidity Control Integration Time,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5342
+Today's High Humidity,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5343
+Today's High Humidity Time,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5344
+Today's Low Humidity,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5345
+Today's Low Humidity Time,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5346
+Ext Air Sensor C Humidity,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5347
+Ext Air Sensor A High Humidity Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5348
+Ext Air Sensor A Low Humidity Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5350
+Dig Scroll Comp Discharge Temp,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5353.1
+Dig Scroll Comp Discharge Temp,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5353.2
+Free Cooling Internal Temperature Delta,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5356
+Free Cooling Internal Control Mode,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5357
+ Possible states for the OID above:
+  0: "Disabled"
+  1: "Contact"
+  2: "Value"
+Free Cooling Fluid Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5358
+Minimum Chilled Water Temp Set Point Enable,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5359
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Minimum Chilled Water Temp Set Point,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5360
+Hot Water / Hot Gas Valve Hours,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5363
+Hot Water / Hot Gas Valve Hours Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5364
+Electric Reheater Hours,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5366.1
+Electric Reheater Hours,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5366.2
+Electric Reheater Hours,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5366.3
+Electric Reheater Hours Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5367.1
+Electric Reheater Hours Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5367.2
+Electric Reheater Hours Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5367.3
+Humidifier Hours,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5369
+Humidifier Hours Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5370
+Dehumidifier Hours,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5371
+Dehumidifier Hours Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5372
+Fan Control Mode,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5373
+ Possible states for the OID above:
+  0: "Auto"
+  1: "Manual"
+  2: "Economy"
+  4: "Delta"
+Fan Hours,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5374
+Fan Hours Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5375
+Analog Input Reading,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5378.1
+Analog Input Reading,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5378.2
+Analog Input Reading,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5378.3
+Analog Input Reading,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5378.4
+Free Cooling Valve Open Position,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5379
+Hot Water / Hot Gas Valve Open Position,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5380
+Fan State,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5381
+ Possible states for the OID above:
+  0: "off"
+  1: "on"
+Cooling State,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5382
+ Possible states for the OID above:
+  0: "off"
+  1: "on"
+Free Cooling State,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5383
+ Possible states for the OID above:
+  0: "off"
+  1: "on"
+Maintenance Tracking State,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5384
+ Possible states for the OID above:
+  0: "off"
+  1: "on"
+Hot Water / Hot Gas State,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5385
+ Possible states for the OID above:
+  0: "off"
+  1: "on"
+Electric Reheat State,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5386
+ Possible states for the OID above:
+  0: "off"
+  1: "on"
+Dehumidifier State,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5387
+ Possible states for the OID above:
+  0: "off"
+  1: "on"
+Humidifier State,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5388
+ Possible states for the OID above:
+  0: "off"
+  1: "on"
+Ext Free Cooling Lockout - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5389
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Ext Free Cooling Lockout - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5390
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Ext Standby Unit On - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5391
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Ext Standby Unit On - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5392
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Ext Loss of Air Blower - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5393
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Ext Loss of Air Blower - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5394
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Compressor Pump Down Issue - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5395.1
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Compressor Pump Down Issue - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5395.2
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Compressor Pump Down Issue - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5396.1
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Compressor Pump Down Issue - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5396.2
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Compressor Short Cycle - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5397.1
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Compressor Short Cycle - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5397.2
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Compressor Short Cycle - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5398.1
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Compressor Short Cycle - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5398.2
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Dig Scroll Comp Discharge Over Temp - Event Ctrl,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5399.1
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Dig Scroll Comp Discharge Over Temp - Event Ctrl,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5399.2
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Dig Scroll Comp Discharge Over Temp - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5400.1
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Dig Scroll Comp Discharge Over Temp - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5400.2
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Ext Air Sensor A Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5401
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Return Air Sensor Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5402
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Ext Air Sensor A High Humidity - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5403
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Ext Air Sensor A High Humidity - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5404
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Ext Air Sensor A Low Humidity - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5405
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Ext Air Sensor A Low Humidity - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5406
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Return Air Under Temp - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5407
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Return Air Under Temp - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5408
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Fan Hours Exceeded - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5409
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Fan Hours Exceeded - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5410
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Main Fan Overload - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5411
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Main Fan Overload - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5412
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Condenser Issue - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5413.1
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Condenser Issue - Event Control,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5413.2
+ Possible states for the OID above:
+  0: "disabled"
+  1: "enabled"
+Condenser Issue - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5414.1
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Condenser Issue - Event Type,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5414.2
+ Possible states for the OID above:
+  0: "Message"
+  1: "Warning"
+  2: "Alarm"
+Infrared Humidifier Flush Rate,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5445
+Adjusted Humidity,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5606
+Damper Status,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5667
+Underflow Static Pressure,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5668
+Inlet Water Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5669
+Outlet Water Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5670
+Filter Pressure Drop,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5671
+ VSD Minimum Setpoint,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5717
+Static Pressure Setpoint,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5718
+Fanspeed Minimum Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5719
+Fanspeed Maximum Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.1.5720
+Return Air Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.4291
+Ext Air Sensor A Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.4594
+Ext Air Sensor B Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.4597
+Supply Air Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5002
+Air Temperature Set Point,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5008
+Air Temperature Dead Band,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5011
+High Return Air Temperature Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5022
+Air Temperature Proportional Band,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5325
+Today's High Air Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5327
+Today's Low Air Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5329
+Supply Air Temperature Set Point,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5331
+Actual Return Air Temperature Set Point,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5333
+Low Return Air Temperature Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5334
+Ext Air Sensor C Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5336
+Ext Air Sensor A Over Temp Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5337
+Ext Air Sensor A Under Temp Threshold,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5338
+Dig Scroll Comp Discharge Temp,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5353.1
+Dig Scroll Comp Discharge Temp,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5353.2
+Free Cooling Internal Temperature Delta,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5356
+Free Cooling Fluid Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5358
+Minimum Chilled Water Temp Set Point,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5360
+Underflow Static Pressure,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5668
+Inlet Water Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5669
+Outlet Water Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5670
+Filter Pressure Drop,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5671
+Static Pressure Setpoint,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5718
+Fanspeed Minimum Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5719
+Fanspeed Maximum Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.2.5720
+Customer Input 1,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.4270
+Customer Input 2,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.4271
+Customer Input 3,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.4272
+Customer Input 4,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.4273
+Ext Air Sensor A Over Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.4601
+Ext Air Sensor A Under Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.4608
+Ext Air Sensor A Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.4618
+Supply Chilled Water Over Temp,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.4626
+Shutdown - Loss Of Power,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.4714
+Smoke Detected,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.4720
+Water Under Floor,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.4723
+Service Required,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.4726
+EC Fan Fault,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.4729
+Supply Chilled Water Loss of Flow,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.4980
+Supply Air Over Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5015
+Supply Air Under Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5019
+Return Air Over Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5023
+Supply Air Sensor Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5026
+High Return Humidity,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5034
+Low Return Humidity,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5036
+Humidifier Hours Exceeded,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5037
+Dehumidifier Hours Exceeded,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5038
+Humidifier Under Current,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5039
+Humidifier Over Current,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5040
+Humidifier Low Water,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5041
+Humidifier Cylinder Worn,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5042
+Humidifier Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5043
+Ext Humidifier Lockout,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5044
+Humidifier Control Board Not Detected,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5045
+Loss of Air Flow,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5053
+Fan Hours Exceeded,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5054
+Ambient Air Sensor Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5060
+Ext Compressor Lockout,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5067
+Reheater Over Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5068
+Ext Reheat Lockout,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5070
+Condenser VFD Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5072
+Condenser TVSS Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5073
+Ext Over Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5104
+Ext Loss of Flow,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5105
+Ext Condenser Pump High Water,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5106
+Ext Standby Glycol Pump On,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5107
+External Fire Detected,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5108
+Unit On,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5109
+Unit Off,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5110
+Unit Standby,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5111
+Unit Partial Shutdown,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5112
+Unit Shutdown,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5113
+Water Leakage Detector Sensor Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5114
+BMS Communications Timeout,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5115
+Maintenance Due,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5116
+Maintenance Completed,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5117
+Clogged Air Filter,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5118
+RAM Battery Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5119
+Master Unit Communication Lost,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5120
+High Power Shutdown,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5121
+Compressor Pump Down Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5146.1
+Compressor Pump Down Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5146.2
+Return Air Sensor Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5147
+Compressor High Pressure Transducer Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5148.1
+Compressor High Pressure Transducer Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5148.2
+Compressor Hours Exceeded,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5269.1
+Compressor Hours Exceeded,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5269.2
+Compressor High Head Pressure,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5270.1
+Compressor High Head Pressure,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5270.2
+Compressor Low Suction Pressure,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5271.1
+Compressor Low Suction Pressure,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5271.2
+Compressor Thermal Overload,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5272.1
+Compressor Thermal Overload,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5272.2
+Free Cooling Valve Hours Exceeded,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5306
+Return Air Under Temperature,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5335
+Ext Air Sensor A High Humidity,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5349
+Ext Air Sensor A Low Humidity,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5351
+Compressor Short Cycle,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5352.1
+Compressor Short Cycle,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5352.2
+Dig Scroll Comp Discharge Temp Sensor Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5354.1
+Dig Scroll Comp Discharge Temp Sensor Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5354.2
+Dig Scroll Comp Over Temp,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5355.1
+Dig Scroll Comp Over Temp,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5355.2
+Ext Free Cooling Lockout,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5361
+Free Cooling Temp Sensor Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5362
+Hot Water / Hot Gas Valve Hours Exceeded,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5365
+Electric Reheater Hours Exceeded,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5368.1
+Electric Reheater Hours Exceeded,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5368.2
+Electric Reheater Hours Exceeded,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5368.3
+Main Fan Overload,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5376
+Condenser Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5377.1
+Condenser Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5377.2
+Ext Loss of Air Blower,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5415
+Ext Standby Unit On,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5416
+Digital Output Board Not Detected,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5417.1
+Digital Output Board Not Detected,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5417.2
+Digital Output Board Not Detected,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5417.3
+Unit Code Missing,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5418
+Unit Communication Lost,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5419
+Compressor Capacity Reduced,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5513
+Compressor Low Pressure Transducer Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5514.1
+Compressor Low Pressure Transducer Issue,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5514.2
+Air Economizer Reduced Airflow,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5601
+Wrong Damper Position,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5642
+Team Static Pressure Failure,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5643
+FC Stopped by DT3,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5645
+Static Pressure Sensor Failure,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5646
+Static Pressure Out Of Range,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5647
+Remote THB Sensor 1 Failure,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5654
+Remote THB Sensor 2 Failure,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5655
+Remote THB Sensor 3 Failure,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5656
+Remote THB Team Sensors Failure,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5657
+CW Control Active,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.2.100.5658
+System Status,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.3.20.1.4123
+ Possible states for the OID above:
+  1: "Normal Operation"
+  2: "StartUp"
+  8: "Normal with Warning"
+  16: "Normal with Alarm"
+  32: "Abnormal Operation"
+System Model Number,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.3.20.1.4240
+Server Class,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.3.20.1.4553
+ Possible states for the OID above:
+  1: "UPS"
+  2: "AIR"
+  3: "PMP"
+  4: "PDU"
+  5: "MONITOR"
+Sensor Order Identifier - Slot 01,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.3.20.1.6109
+Sensor Order Identifier - Slot 02,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.3.20.1.6110
+Sensor Order Identifier - Slot 03,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.3.20.1.6111
+Sensor Order Identifier - Slot 04,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.3.20.1.6112
+Sensor Order Identifier - Slot 05,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.3.20.1.6113
+Sensor Order Identifier - Slot 06,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.3.20.1.6114
+Sensor Order Identifier - Slot 07,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.3.20.1.6115
+Sensor Order Identifier - Slot 08,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.3.20.1.6116
+Sensor Order Identifier - Slot 09,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.3.20.1.6117
+Sensor Order Identifier - Slot 10,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.3.20.1.6118
+Too Many Sensors,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.3.20.100.5423
+Slots not available,1.3.6.1.4.1.476.1.42.3.9.20.1.20.1.3.20.100.6119
